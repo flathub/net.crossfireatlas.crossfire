@@ -18,6 +18,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.1" date="2023-2-8">
+			<description>
+				<p>v1.1 Crossfire java client (sound files included).</p>
+			</description>
+		</release>
 		<release version="1.0" date="2022-11-19">
 			<description>
 				<p>v1.0 Crossfire java client.</p>
